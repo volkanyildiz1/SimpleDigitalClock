@@ -1,0 +1,23 @@
+body{
+    background-color: #F1F5F8;
+}
+#container{
+    margin: auto;
+    margin-top: 200px;
+    padding-top: auto;
+    border: 1px solid transparent;
+    width: 600px;
+    height: 200px;
+    background-color: black;
+    border-radius: 10px;
+    
+}
+#screen{
+    
+    margin: 0;
+    padding:40px ;
+    padding-left: 120px;
+    font-size: 100px;
+    color: #F1F5F8;
+
+}
